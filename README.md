@@ -14,7 +14,7 @@ pip install pygame
 
 
 
-Clone the repository:
+Clone the repository:https://github.com/roninastic/flappy
 
 $ git clone 
 or download as zip and extract.

@@ -24,3 +24,6 @@ In the root directory run
 $python3.9 main.py
 
 Use ↑ or Space key to play and Esc to close the game.
+
+#Video Demo
+https://youtu.be/RIIZ_avMYGs
